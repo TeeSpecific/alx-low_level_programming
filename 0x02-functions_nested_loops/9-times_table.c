@@ -1,6 +1,11 @@
 #include "main.h"
 #include <stdio.h>
 
+/**
+ * time_table - prints 9 time tables
+ * Return: 0
+ */
+
 void times_table(void)
 {
 	int i, j, result;
